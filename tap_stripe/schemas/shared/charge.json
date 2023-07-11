@@ -242,6 +242,12 @@
             "null",
             "integer"
           ]
+        },
+        "decline_score": {
+          "type": [
+            "null",
+            "integer"
+          ]
         }
       }
     },
